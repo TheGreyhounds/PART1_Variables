@@ -16,7 +16,7 @@ quotes were that memory. The function we then used was System.out.println(),
 which accessed that memory from an address it found using our variable
 name. 
 
-We also added strings together, or more precisely, we concated strings,
+We also added strings together, or more precisely, we concatenated strings,
 meaning we appended one to the end of the other. The "+" symbol acted
 as the function (though again with the technicalities, it's called an
 operator) and combined the memory from both variable addresses into
