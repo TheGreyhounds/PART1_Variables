@@ -4,8 +4,8 @@ Create a small code snippet showing the different ways variables operate.
 In computer science, there are two types of code. Code that acts as a
 representation of state, or memory, and code that actually acts; it
 does something to, on, or from that state within the program. A good
-analogy is that variables are like nouns - they simply represent something 
-- while functions and/or methods, which represent verbs, or action, simply 
+analogy is that variables are like nouns - they simply represent something - while 
+functions and/or methods, which represent verbs, or action, simply 
 do; they perform operations, access memory, call other functions, compare 
 values, etc. Both these types of code make up a program. The string "Hello
 World!" can be considered a noun, as it's a variable stored in memory, while
